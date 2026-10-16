@@ -4,9 +4,9 @@
 
 ## Motivation
 
-As many research assistant job adverts ask for experience in psychometrics and adaptive testing, I wanted to test whether my skills were up to standard as expected in these roles. 
+he PHQ-9 is one of the most widely used depression measures in primary care and clinical trials. This project examines whether it measures depression consistently across demographic groups, and whether an adaptive version could reduce respondent burden without losing precision.
 
-It also linked back to my work at Waterloo Community Counselling (WCC), where I studied the effectiveness of cultural and linguistic client–therapist matching. Matching went beyond demographic characteristics to psychological fit, which is linked to a stronger therapeutic alliance. This relied on clients’ self-report questionnaires. However, we noticed that with longer questionnaires, respondent burden increased and answers became vaguer, a pattern consistent with respondent fatigue and satisficing. I wanted to see whether computer adaptive testing could reach the same measurement precision with fewer items.
+It also links back to my work at Waterloo Community Counselling (WCC), where I studied the effectiveness of cultural and linguistic client–therapist matching. Matching went beyond demographic characteristics to psychological fit, which is linked to a stronger therapeutic alliance. This relied on clients’ self-report questionnaires. However, we noticed that with longer questionnaires, respondent burden increased and answers became vaguer, a pattern consistent with respondent fatigue and satisficing. I wanted to see whether computer adaptive testing could reach the same measurement precision with fewer items.
 
 ## Approach
 
